@@ -2,13 +2,13 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 3,
-      "initialize_sdk":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -22,289 +22,84 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Indah Yastami",
-      "image": "file:///android_asset/image/play.jpg"
+      "name_category": "Khalid Basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hanan Attaki",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Mr. Kim",
+      "image": "file:///android_asset/image/kim.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Adi Hidayat",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Indah Yastami",
-      "title": "Ada Aku Disini",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/ADAAKUDISINI.mp3",
-      "duration": "247",
-      "lyrics": ""
-    },
+      "name_category": "Khalid Basalamah",
+      "title": "Paksakan Ibadah",
+      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+      "duration": "101",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
     {
       "id": 2,
-      "name_category": "Indah Yastami",
-      "title": "Akhirnya Aku Menemukan Mu",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/AKHIRNYAAKUMENEMUKANMU.mp3",
-      "duration": "302",
-      "lyrics": ""
-    },
+      "name_category": "Khalid Basalamah",
+      "title": "Dosa Membawa Keburukan",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
+      "duration": "54",
+      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
     {
       "id": 3,
-      "name_category": "Indah Yastami",
-      "title": "Belahan Jiwa",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/BELAHANJIWADOT.mp3",
-      "duration": "241",
-      "lyrics": ""
+      "name_category": "Hanan Attaki",
+      "title": "Lapang Dada",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
+      "duration": "61",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
     },
     {
       "id": 4,
-      "name_category": "Indah Yastami",
-      "title": "Cinta Tak Harus Memiliki",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/CINTATAKHARUSMEMILIKIST12.mp3",
-      "duration": "254",
-      "lyrics": ""
-    },
+      "name_category": "Ammi Nur Bait",
+      "title": "Cambuk Untuk Kita Semua",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
+      "duration": "240",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+    }
+  ,
     {
       "id": 5,
-      "name_category": "Indah Yastami",
-      "title": "Disini Di Batas Kota Ini",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/DiSiniDiBataskotaIni.mp3",
-      "duration": "261",
-      "lyrics": ""
-    },
+      "name_category": "Adi Hidayat",
+      "title": "Selalu Tenang karena ada Allah",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
+      "duration": "235",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+    }
+  ,
     {
       "id": 6,
-      "name_category": "Indah Yastami",
-      "title": "Duka LAST CHILD",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/Duka_LAST_CHILD.mp3",
-      "duration": "210",
-      "lyrics": ""
-    },
-    {
-      "id": 7,
-      "name_category": "Indah Yastami",
-      "title": "Dulu-Danar Widianto",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/DULUDANARWIDIANTO.mp3",
-      "duration": "213",
-      "lyrics": ""
-    },
-    {
-      "id": 8,
-      "name_category": "Indah Yastami",
-      "title": "Hanya Satu Persinggahan",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/HANYASATUPERSINGGAHANIKLIM.mp3",
-      "duration": "261",
-      "lyrics": ""
-    },
-    {
-      "id": 9,
-      "name_category": "Indah Yastami",
-      "title": "Harga Ditiku",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/HARGADIRIKUWALI.mp3",
-      "duration": "210",
-      "lyrics": ""
-    },
-    {
-      "id": 10,
-      "name_category": "Indah Yastami",
-      "title": "Jika Cinta Dia",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/JIKACINTADIAGEISHA.mp3",
-      "duration": "306",
-      "lyrics": ""
-    },
-    {
-      "id": 11,
-      "name_category": "Indah Yastami",
-      "title": "Jika Itu Yang Terbaik",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/JIKAITUYANGTERBAIKUNGU.mp3",
-      "duration": "304",
-      "lyrics": ""
-    },
-    {
-      "id": 12,
-      "name_category": "Indah Yastami",
-      "title": "Kita",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/KITASHEILAON7.mp3",
-      "duration": "204",
-      "lyrics": ""
-    },
-    {
-      "id": 13,
-      "name_category": "Indah Yastami",
-      "title": "Lama-Lama Aku Bosan",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/LAMALAMAAKUBOSANAUDY.mp3",
-      "duration": "151",
-      "lyrics": ""
-    },
-    {
-      "id": 14,
-      "name_category": "Indah Yastami",
-      "title": "Maafkan Aku",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/MAAFKANAKUENDA.mp3",
-      "duration": "271",
-      "lyrics": ""
-    },
-    {
-      "id": 15,
-      "name_category": "Indah Yastami",
-      "title": "Mencari alasan",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/MENCARIALASANEXIST.mp3",
-      "duration": "307",
-      "lyrics": ""
-    },
-    {
-      "id": 16,
-      "name_category": "Indah Yastami",
-      "title": "Penantian-Armada",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/PENANTIANARMADA.mp3",
-      "duration": "318",
-      "lyrics": ""
-    },
-    {
-      "id": 17,
-      "name_category": "Indah Yastami",
-      "title": "Sejauh Mungkin",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/SEJAUHMUNGKINUNGU.mp3",
-      "duration": "253",
-      "lyrics": ""
-    },
-    {
-      "id": 18,
-      "name_category": "Indah Yastami",
-      "title": "Tuhan Jagakan Dia-Motif Band",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/TUHANJAGAKANDIAMOTIFBAND.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 19,
-      "name_category": "Indah Yastami",
-      "title": "Aku Milikmu malam Ini",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/AKU-MILIKMU-MALAM-INI.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 20,
-      "name_category": "Indah Yastami",
-      "title": "Bunga Terakhir",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/BUNGA-TERAKHIR.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 21,
-      "name_category": "Indah Yastami",
-      "title": "Cinta Dan permata",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/CINTA-DAN-PERMATA.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 22,
-      "name_category": "Indah Yastami",
-      "title": "Demi kau Dan Sibuah Hati",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/DEMI-KAU-DAN-SIBUAH-HATI.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 23,
-      "name_category": "Indah Yastami",
-      "title": "Dirimu Satu",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/DIRIMU_SATU.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 24,
-      "name_category": "Indah Yastami",
-      "title": "Hati Yang Luka",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/HATI_YANG_LUKA.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 25,
-      "name_category": "Indah Yastami",
-      "title": "Jujur -Radja",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/JUJUR-RADJA.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 26,
-      "name_category": "Indah Yastami",
-      "title": "Ku Cari Jalan Terbaik",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/KUCARI_JALAN_TERBAIK.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 27,
-      "name_category": "Indah Yastami",
-      "title": "Manusia Biasa -Radja",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/MANUSIA BIASA-RADJA.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 28,
-      "name_category": "Indah Yastami",
-      "title": "Mimpi Yang Sempurna",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/MIMPI_YANG_SEMPURNA.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 29,
-      "name_category": "Indah Yastami",
-      "title": "Sebelum Cahaya -Letto",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/SEBELUM_CAHAYA_LETTO.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 30,
-      "name_category": "Indah Yastami",
-      "title": "Tak Ingin Sendiri",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/TAK_INGIN_SENDIRI.mp3",
-      "duration": "209",
-      "lyrics": ""
-    },
-    {
-      "id": 31,
-      "name_category": "Indah Yastami",
-      "title": "Tulus -Radja",
-      "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "mp3/new/TULUS_RADJA.mp3",
-      "duration": "209",
-      "lyrics": ""
+      "name_category": "Mr. Kim",
+      "title": "Source Code Mp3 Player",
+      "image": "file:///android_asset/image/kim.jpeg",
+      "link_mp3": "mp3/kim.ogg",
+      "duration": "36",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
     }
   ]
 }
